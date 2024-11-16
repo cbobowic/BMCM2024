@@ -8,7 +8,6 @@
 - Use graph of RANSAC inliers to compute relative skill metrics on network of teams
 - Track and characterize "luck"-determined games (i.e.RANSAC outliers) &rarr; with more features, potentially predict these games
 
-
 ## Considerations:
 - Stratify season into several periods &rarr; Account for potential variability in performance over time due to injuries, etc.
 - Consider offensive and defensive performance separately
